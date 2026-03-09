@@ -145,15 +145,11 @@ This helps engineers understand **maximum load capacity before structural failur
 
 ---
 
-## Future Improvements
-
-* Deep learning based structural prediction
-* Larger structural engineering datasets
-* Real-time engineering simulation integration
-* Structural safety classification model
+## NOTE  : 
+The Model is Trained Using Synthetic Data (AI Generated)
 
 ---
 
 ## Author
 
-AI & Data Science Student | Machine Learning Enthusiast
+Jegan R K | AI & Data Science Student | Machine Learning
